@@ -1,11 +1,11 @@
 {
 "companyName": "DefaultCompany",
-"productName": "UnityAVIExporter",
+"productName": "UnityAVIExport",
 "productVersion": "0.1",
 "dataUrl": "UnityAVIExport.data.unityweb",
 "wasmCodeUrl": "UnityAVIExport.wasm.code.unityweb",
 "wasmFrameworkUrl": "UnityAVIExport.wasm.framework.unityweb",
-"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"graphicsAPI": ["WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
